@@ -7,4 +7,5 @@ The " Module-End-Portfolio-Project: Data Analysis Using Power BI" focuses on con
 # About the Report: 
 The report utilizes various visualizations, including pie charts, column charts, bar charts, gauges, slicers, cards, and donut charts, each providing unique insights into the company’s sales and profit. Features like buttons, page navigators, and bookmarks (e.g., Canada 2013 sales, Germany 2014 sales) enhance report navigation.
 
-Insights from the Report: The analysis reveals that the report is divided into four sections, each with slicers for year, quarter, month, and day. The findings indicate that Germany had the highest sales in 2013.The goverment segment is High sales in 2013 , The product velo is the highest sales in 2013.
+Insights from the Report: 
+The findings indicate that Germany had the highest country sales in 2013, with the government segment leading in sales, and the product "Velo" achieving the highest sales for that year. In 2014, the United States recorded the highest country sales, with the government segment once again leading, and the product "Paseo" emerging as the top-selling product.
